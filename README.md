@@ -38,7 +38,7 @@ I thrive on connecting with like-minded folks, tech enthusiasts, or anyone with 
 - **Twitter**: [@BibekTheLegend](https://twitter.com/BibekTheLegend(soon))
 - **Website**: [Portfolio](https://bibekgupta.free.nf)
 - **Marketplace**: [RedForest](https://marketplace.visualstudio.com/publishers/BibekTheLegend)
-- **Buycoffee**:[BibekGupta](https://www.buymeacoffee.com/bibekgupta)
+- **Buycoffee**: [BibekGupta](https://www.buymeacoffee.com/bibekgupta)
 
 
 ## Feedback & Cheers 🚀
