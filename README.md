@@ -5,7 +5,7 @@ I'm Bibek Gupta, known in the digital realm as BibekTheLegend. 🌟 I go by he/h
 
 ## About Me 🤔
 
-I'm not just a coder; I'm on a mission! My coding journey is fueled by boundless curiosity and a burning desire to craft solutions that matter. I firmly believe in the transformative power of technology and am committed to being a force for positive change. Also Worked on project like vb.net php 😁
+I'm not just a coder; I'm on a mission! My coding journey is fueled by boundless curiosity and a burning desire to craft solutions that matter. I firmly believe in the transformative power of technology and am committed to being a force for positive change. Also Worked on project like vb.net php 
 
 
 ## Skills 💻
