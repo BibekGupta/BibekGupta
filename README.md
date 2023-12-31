@@ -3,7 +3,7 @@
 I'm Bibek Gupta, known in the digital realm as BibekTheLegend. 🌟 I go by he/him pronouns, and I'm just your average coder – I'm a versatile wizard in C, C++, JavaScript, HTML, CSS, and Python. I transform ideas into lines of code and get a thrill from cracking those mind-bending problems.
 
 
-## About Me 😊
+## About Me 🤔
 
 I'm not just a coder; I'm on a mission! My coding journey is fueled by boundless curiosity and a burning desire to craft solutions that matter. I firmly believe in the transformative power of technology and am committed to being a force for positive change. Also Worked on project like vb.net php 😁
 
