@@ -41,7 +41,7 @@ I thrive on connecting with like-minded folks, tech enthusiasts, or anyone with 
 - **Buycoffee**: [BibekGupta](https://www.buymeacoffee.com/bibekgupta)
 
 
-## Feedback & Cheers 🚀
+## Feedback & Cheers 🗯
 
 Got feedback, suggestions, or just wanna say hi? Open an issue or slide into my DMs. Your input is my secret sauce for improvement.
 
