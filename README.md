@@ -1,6 +1,6 @@
 ## Hey, Fellow Coders! 👋
 
-I'm Bibek Gupta, known in the digital realm as BibekTheLegend. 🌟 I go by he/him pronouns, and I'm just your average coder – I'm a versatile wizard in C, C++, JavaScript, HTML, CSS, and Python. I transform ideas into lines of code and get a thrill from cracking those mind-bending problems.
+I'm Bibek Gupta. 🌟 I go by he/him pronouns, and I'm just your average coder – I'm a versatile wizard in C, C++, JavaScript, HTML, CSS, and Python. I transform ideas into lines of code and get a thrill from cracking those mind-bending problems.
 
 
 ## About Me 🤔
